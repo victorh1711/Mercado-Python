@@ -1,6 +1,5 @@
-from price import*
 import time
-shelf=['arroz']
+shelf=['arroz','feijao','macarrao']
 cart=[]
 
 start=input('Ola, vamos ás compras?(sim/nao)').lower()
